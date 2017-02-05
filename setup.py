@@ -18,16 +18,16 @@ plugin_version = "0.1.0"
 
 # The plugin's description. Can be overwritten within OctoPrint's internal data via __plugin_description__ in the plugin
 # module
-plugin_description = """Automatically selects freshly uploaded files for printing if no print job is currently active."""
+plugin_description = """Testing"""
 
 # The plugin's author. Can be overwritten within OctoPrint's internal data via __plugin_author__ in the plugin module
-plugin_author = "Gina Häußge"
+plugin_author = "c"
 
 # The plugin's author's mail address.
-plugin_author_email = "osd@foosel.net"
+plugin_author_email = "c"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/OctoPrint/OctoPrint-Autoselect"
+plugin_url = "https://github.com/clarkewd/OctoPrint-Testing"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "AGPLv3"
